@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"
+    xmlns:o="urn:schemas-microsoft-com:office:office">
+
+<head>
+    <meta charset="utf-8"> <!-- utf-8 works for most cases -->
+    <meta name="viewport" content="width=device-width"> <!-- Forcing initial-scale shouldn't be necessary -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"> <!-- Use the latest (edge) version of IE rendering engine -->
+    <meta name="x-apple-disable-message-reformatting"> <!-- Disable auto-scale in iOS 10 Mail entirely -->
+    <meta name="color-scheme" content="light">
+    <meta name="supported-color-schemes" content="light">
+    <style type="text/css">
+        a {
+            text-decoration: underline;
+            color: #be2bbc;
+        }
+    </style>
+</head>
+
+<body width="100%" style="margin: 0; padding: 0 !important; mso-line-height-rule: exactly; background-color: #ffffff;">
+    <center role="article" aria-roledescription="email" lang="en" style="width: 100%; background-color: #ffffff;">
+        <div
+            style="display: none; font-size: 1px; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden; mso-hide: all; font-family: sans-serif;">
+            LAMBDA MEMORY DOWNSIZED NOTIFICATION
+        </div>
+        <div
+            style="display: none; font-size: 1px; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden; mso-hide: all; font-family: 'Trebuchet MS', sans-serif;">
+            &zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+        </div>
+        <div style="max-width: 600px; margin: 0 auto;" class="email-container">
+            <table align="center" role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%"
+                style="margin: auto;">
+                <!-- Email Header : BEGIN -->
+                <tr>
+                    <td
+                        style="width:100%; padding: 20px; height: 40px; background: rgb(234,213,201); background: linear-gradient(180deg, rgba(234,213,201,1) 35%, rgba(250,246,243,1) 100%);">
+                        <span
+                            style="float:left; display:inline-block; font-family:'Trebuchet MS', sans-serif; font-size:15px; color: #595454;">Bristol
+                            Myers Squibb&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                        <span
+                            style="padding: 0 0 0 30px; float:right; display:inline-block; font-family:'Trebuchet MS', sans-serif; font-size:24px; color: #595454;">Information
+                            Technology</span>
+                    </td>
+                </tr>
+                <!-- Email Header : END -->
+
+                <!-- 1 Column Text + Button : BEGIN -->
+                <tr>
+                    <td style="background-color: #ffffff;">
+                        <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
+                            <tr>
+                                <td
+                                    style="padding: 20px; font-family: 'Trebuchet MS', sans-serif; font-size: 14px; color: #595454;">
+                                    <span
+                                        style="margin: 0; padding: 0; font-family: 'Trebuchet MS', sans-serif; font-size: 18px;  color: #595454; font-weight: normal;">LAMBDA MEMORY DOWNSIZED NOTIFICATION</span>
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td style="padding: 0 20px;">
+                                    <hr>
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td
+                                    style="padding: 20px; font-family: 'Trebuchet MS', sans-serif; font-size: 14px; color: #595454;">
+                                    <span
+                                        style="margin: 0; padding: 0; display:block; font-family: 'Trebuchet MS', sans-serif; font-size: 18px; color: #595454; font-weight: normal;">
+                                        Why Am I Receiving this Email?
+                                    </span>
+                                    <p
+                                        style="margin: 0; padding: 0; font-family: 'Trebuchet MS', sans-serif; font-size: 14px; color: #595454; font-weight: normal;">
+                                        <br />
+                                        This email is to notify you that the lambda associated with you as contact/creator has been identified with allocated memory greater than 1 GB.</p>
+                                    <p
+                                        style="margin: 0; padding: 0; font-family: 'Trebuchet MS', sans-serif; font-size: 14px; color: #595454; font-weight: normal;">
+                                        <br />
+                                        Lambda Details: Please check the attachment for more details about the lambda functions
+                                        <br>
+                                    <br />
+                                    </p>
+                                    <span style="margin: 0; padding: 0; display:block; font-family: 'Trebuchet MS', sans-serif; font-size: 18px; color: #595454; font-weight: normal;">
+                                        What Action taken
+                                    </span>									
+                                    <p style="margin: 0; padding: 0; font-family: 'Trebuchet MS', sans-serif; font-size: 14px; color: #595454; font-weight: normal;"><br/>
+                                        As lambda memory size is greater than the 1 GB, we have downsized this memory to maximum threshold allowed. If you want more than 1 GB size you can follow the "How do I request for an exception for my lambda function?" section and make your lambda function whitelisted.                                        <br />
+                                        <br>
+                                
+                                    <br />
+                                    <span
+                                    style="margin: 0; padding: 0; display:block; font-family: 'Trebuchet MS', sans-serif; font-size: 18px; color: #595454; font-weight: normal;">
+                                    How do I request for an exception for my lambda function?
+                                </span>
+                                <p
+                                    style="margin: 0; padding: 0; font-family: 'Trebuchet MS', sans-serif; font-size: 14px; color: #595454; font-weight: normal;">
+                                    <ul>
+                                        <li>Please open a SNOW Request for AWS DevOps Support to engage the BMS Cloud Computing - DevOps support services for whitelisting the Lambda.</li>
+                                        <li>SNOW Request Details</li>
+                                        <ul>
+                                            <li>Service Catalog</li>
+                                            <li>Technology Infrastructure Services</li>
+                                            <ul>
+                                                <li>Cloud Service</li>
+                                                <ul>
+                                                    <li style="margin: 0; padding: 0">AWS Cloud Computing - DevOps Support</li>
+                                                    <span>( <b>Please Provide</b> Function Name, Function ARN, Exception Memory size and Justification for why Function require more than 1 GB Size under "Justification/comments" section. )</span>
+                                                </ul>
+                                            </ul>
+                                            
+                                        </ul>
+                                        <li style="margin: 0; padding: 0">Once request will approved, you need to add the Tag <b><i>bms:memorythresholdexception</i></b> with your maximum threshold memory size in MB.</li>
+                                        <ul>
+                                            <li style="margin: 0; padding: 0">Example:<br>bms:memorythresholdexception : 2000</li>
+                                        </ul>
+                                    </ul>
+                                    <p style="margin: 0; padding: 0; font-family: 'Trebuchet MS', sans-serif; font-size: 14px; color: #595454; font-weight: normal;"><br/>
+                                        For any further queries please contact the <a href="mailto:mg-aws-devops-support@bms.com" target="_top" >BMS DevOps Support team</a>.
+                                        <br/>
+                                    </p>
+                                    </p>
+                                    <!-- <span
+                                        style="margin: 0; padding: 0; display:block; font-family: 'Trebuchet MS', sans-serif; font-size: 18px; color: #595454; font-weight: normal;">
+                                        If Action Not Taken?
+                                    </span>
+                                    <p
+                                        style="margin: 0; padding: 0; font-family: 'Trebuchet MS', sans-serif; font-size: 14px; color: #595454; font-weight: normal;">
+                                        <br />
+                                        If no action is taken until targetDate, then lambda memory configuration will be reduced to the maximum allowed threshold of 1 GB.
+                                        <br />
+                                    </p>  -->
+                                    <!DOCTYPE html>
+                                    <html>
+
+                                    <head>
+                                        <style>
+                                            table {
+                                                font-family: arial, sans-serif;
+                                                border-collapse: collapse;
+                                                width: 100%;
+                                            }
+
+                                            td,
+                                            th {
+                                                border: 1px solid #dddddd;
+                                                text-align: left;
+                                                padding: 4px;
+                                            }
+
+                                            tr:nth-child(even) {
+                                                background-color: #dddddd;
+                                            }
+                                        </style>
+                                    </head>
+
+                                    <body>
+
+                        </table>
+                        <table align="center" role="presentation" cellspacing="0" cellpadding="0" border="0"
+                            width="100%" style="margin: auto;">
+                            <tr>
+                                <td
+                                    style="padding: 20px; font-family: 'Trebuchet MS', sans-serif; font-size: 12px; color: #595454;">
+                                    <i>NOTE: This is an automated transactional email. Please do not reply to this
+                                        email.</i>
+                                    <br><br>
+                                    <i style="text-align:left;">This message (including any attachments) may contain
+                                        confidential, proprietary, privileged and/or private information. The
+                                        information is intended to be for the use of the individual or entity designated
+                                        above. If you are not the intended recipient of this message, please notify the
+                                        sender immediately, and delete the message and any attachments. Any disclosure,
+                                        reproduction, distribution or other use of this message or any attachments by an
+                                        individual or entity other than the intended recipient is prohibited.</i>
+                                </td>
+                            </tr>
+                        </table>
+</body>
+
+</html>
+
+</body>
+
+</html>
